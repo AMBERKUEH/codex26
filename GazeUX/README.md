@@ -38,6 +38,12 @@ Then open `http://localhost:8000`.
 - [SUBMISSION.md](SUBMISSION.md) contains the project description, Codex usage summary, repository checklist, feedback-session placeholder, and run instructions.
 - [DEMO_SCRIPT.md](DEMO_SCRIPT.md) contains a timed under-three-minute recording plan.
 - `npm test` runs the deterministic high-risk and safe-block orchestration checks.
+- [PeatCycle_AI_Full_Demo_Deck.pptx](outputs/PeatCycle_AI_Full_Demo_Deck.pptx) is the 10-slide full demo deck.
+- [peatcycle-sensor-concept.png](assets/peatcycle-sensor-concept.png) is a generated product concept visual for a future 3D sensor model.
+
+## Environment configuration
+
+The hackathon demo does **not** require an `.env` file, API key, database, or cloud account. It runs with simulated telemetry and the local multi-agent loop. A real sensor deployment will later need secure environment variables for the sensor gateway/MQTT broker, weather provider, database, and optional AI services; those secrets should never be committed to the repository.
 
 The current interface uses realistic demo data from the project plan so the 48-hour hackathon story can be shown without a backend. The commercial direction is deliberately more specific than generic SaaS: tiered per-hectare/year pricing for plantations, annual enterprise licenses with dedicated support for government, and an ESG readiness / insurance evidence layer. The product should reduce audit preparation and strengthen underwriting conversations; it should not promise instant carbon credits.
 

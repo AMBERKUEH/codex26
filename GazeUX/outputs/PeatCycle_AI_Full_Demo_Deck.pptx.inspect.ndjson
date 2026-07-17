@@ -1,0 +1,220 @@
+{"kind":"deck","id":"pr/sysg4n","name":"Deck"}
+{"kind":"layout","layoutId":"f57d9bd5-85ed-455a-a6a9-199f129a7e73","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"96de4653-862c-4279-aba7-b9fde4fb2b29","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/syabmx","slide":1,"title":"PEATCYCLE AI","textShapes":7}
+{"kind":"shape","id":"sh/4fm5kfqt","slide":1,"bbox":[820,0,460,460]}
+{"kind":"shape","id":"sh/3ed4ra98","slide":1,"bbox":[1030,500,250,220]}
+{"kind":"textbox","id":"sh/2dkni58n","slide":1,"text":"PEATCYCLE AI","textPreview":"PEATCYCLE AI","textChars":12,"textLines":1,"bbox":[70,76,500,24]}
+{"kind":"textbox","id":"sh/dkvmxkra","slide":1,"text":"Prevent the fire\nbefore it starts.","textPreview":"Prevent the fire | before it starts.","textChars":34,"textLines":2,"bbox":[70,174,760,160]}
+{"kind":"textbox","id":"sh/cjm5ofqp","slide":1,"text":"Predictive intelligence for Malaysia's peatlands","textPreview":"Predictive intelligence for Malaysia's peatlands","textChars":48,"textLines":1,"bbox":[74,360,590,32]}
+{"kind":"shape","id":"sh/rid4va94","slide":1,"bbox":[74,430,330,26]}
+{"kind":"textbox","id":"sh/qh4nmp8z","slide":1,"text":"CODEX COMMUNITY MEETUP · KUALA LUMPUR","textPreview":"CODEX COMMUNITY MEETUP · KUALA LUMPUR","textChars":37,"textLines":1,"bbox":[82,435,314,16]}
+{"kind":"textbox","id":"sh/18f614rm","slide":1,"text":"A working MVP built with Codex","textPreview":"A working MVP built with Codex","textChars":30,"textLines":1,"bbox":[74,500,500,28]}
+{"kind":"textbox","id":"sh/0765szq1","slide":1,"text":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textPreview":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textChars":47,"textLines":1,"bbox":[64,681,700,16]}
+{"kind":"textbox","id":"sh/ihsvmhcn","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1170,681,45,16]}
+{"kind":"notes","id":"nt/syabmx","slide":1,"text":""}
+{"kind":"slide","id":"sl/ohgdap","slide":2,"title":"THE LANDSCAPE","textShapes":15}
+{"kind":"textbox","id":"sh/lgzq1oni","slide":2,"text":"THE LANDSCAPE","textPreview":"THE LANDSCAPE","textChars":13,"textLines":1,"bbox":[64,48,560,18]}
+{"kind":"textbox","id":"sh/ydo769or","slide":2,"text":"Peatlands are a natural carbon vault — until they dry out.","textPreview":"Peatlands are a natural carbon vault — until they dry out.","textChars":58,"textLines":1,"bbox":[64,82,960,58]}
+{"kind":"textbox","id":"sh/zex8ze5c","slide":2,"text":"A peatland is a waterlogged ecosystem built from partially decomposed organic matter.","textPreview":"A peatland is a waterlogged ecosystem built from partially decomposed organic matter.","textChars":85,"textLines":1,"bbox":[64,151,900,38]}
+{"kind":"shape","id":"sh/83qpcj69","slide":2,"bbox":[64,235,520,300]}
+{"kind":"textbox","id":"sh/94zq5one","slide":2,"text":"WHAT MAKES PEATLANDS SPECIAL","textPreview":"WHAT MAKES PEATLANDS SPECIAL","textChars":28,"textLines":1,"bbox":[96,265,320,18]}
+{"kind":"textbox","id":"sh/mh87ato3","slide":2,"text":"Waterlogged soil\nslows decomposition","textPreview":"Waterlogged soil | slows decomposition","textChars":36,"textLines":2,"bbox":[96,310,380,65]}
+{"kind":"textbox","id":"sh/72h83y5o","slide":2,"text":"That stores carbon for centuries and supports unique biodiversity.","textPreview":"That stores carbon for centuries and supports unique biodiversity.","textChars":66,"textLines":1,"bbox":[96,397,390,52]}
+{"kind":"shape","id":"sh/w7apg365","slide":2,"bbox":[96,480,130,26]}
+{"kind":"textbox","id":"sh/h8jq98nq","slide":2,"text":"CARBON STORED","textPreview":"CARBON STORED","textChars":13,"textLines":1,"bbox":[104,485,114,16]}
+{"kind":"textbox","id":"sh/9wbixc76","slide":2,"text":"high-value natural asset","textPreview":"high-value natural asset","textChars":24,"textLines":1,"bbox":[240,484,240,20]}
+{"kind":"shape","id":"sh/ov2h47q1","slide":2,"bbox":[640,235,575,300]}
+{"kind":"textbox","id":"sh/nut0v2pg","slide":2,"text":"WHEN THE WATER TABLE FALLS","textPreview":"WHEN THE WATER TABLE FALLS","textChars":26,"textLines":1,"bbox":[672,265,340,18]}
+{"kind":"shape","id":"sh/mtkz2x8v","slide":2,"bbox":[672,321,8,8]}
+{"kind":"textbox","id":"sh/x0vi1c7i","slide":2,"text":"Peat becomes dry and oxygen-rich","textPreview":"Peat becomes dry and oxygen-rich","textChars":32,"textLines":1,"bbox":[692,315,430,30]}
+{"kind":"shape","id":"sh/wz2h87qx","slide":2,"bbox":[672,371,8,8]}
+{"kind":"textbox","id":"sh/byt0z2pc","slide":2,"text":"Organic matter becomes fuel","textPreview":"Organic matter becomes fuel","textChars":27,"textLines":1,"bbox":[692,365,430,30]}
+{"kind":"shape","id":"sh/axkz6h8r","slide":2,"bbox":[672,421,8,8]}
+{"kind":"textbox","id":"sh/d4ryps7e","slide":2,"text":"Fire can smoulder underground","textPreview":"Fire can smoulder underground","textChars":29,"textLines":1,"bbox":[692,415,430,30]}
+{"kind":"shape","id":"sh/c3ihwnqt","slide":2,"bbox":[672,471,8,8]}
+{"kind":"textbox","id":"sh/4nmhcnyp","slide":2,"text":"Haze, emissions and lost livelihoods follow","textPreview":"Haze, emissions and lost livelihoods follow","textChars":43,"textLines":1,"bbox":[692,465,430,30]}
+{"kind":"textbox","id":"sh/5ovilsfu","slide":2,"text":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textPreview":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textChars":47,"textLines":1,"bbox":[64,681,700,16]}
+{"kind":"textbox","id":"sh/ilkzadgj","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1170,681,45,16]}
+{"kind":"notes","id":"nt/ohgdap","slide":2,"text":""}
+{"kind":"slide","id":"sl/dwrb66","slide":3,"title":"THE PROBLEM","textShapes":14}
+{"kind":"textbox","id":"sh/tkzylcj2","slide":3,"text":"THE PROBLEM","textPreview":"THE PROBLEM","textChars":11,"textLines":1,"bbox":[64,48,560,18]}
+{"kind":"textbox","id":"sh/6hozqhkb","slide":3,"text":"Today, many teams see the fire after the damage begins.","textPreview":"Today, many teams see the fire after the damage begins.","textChars":55,"textLines":1,"bbox":[64,82,960,58]}
+{"kind":"textbox","id":"sh/7ixgj21w","slide":3,"text":"Monitoring data exists, but the decision loop is still too reactive.","textPreview":"Monitoring data exists, but the decision loop is still too reactive.","textChars":68,"textLines":1,"bbox":[64,151,900,38]}
+{"kind":"shape","id":"sh/kf6xo72l","slide":3,"bbox":[64,260,300,250]}
+{"kind":"textbox","id":"sh/5gfyhcj6","slide":3,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[89,288,70,30]}
+{"kind":"textbox","id":"sh/itofmxkf","slide":3,"text":"Fragmented signals","textPreview":"Fragmented signals","textChars":18,"textLines":1,"bbox":[89,344,240,40]}
+{"kind":"textbox","id":"sh/juxgf210","slide":3,"text":"Sensors, weather, satellite and field notes live in separate places.","textPreview":"Sensors, weather, satellite and field notes live in separate places.","textChars":68,"textLines":1,"bbox":[89,405,240,75]}
+{"kind":"shape","id":"sh/wrmxkn29","slide":3,"bbox":[410,260,300,250]}
+{"kind":"textbox","id":"sh/xsfydsju","slide":3,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[435,288,70,30]}
+{"kind":"textbox","id":"sh/pc7qtwb6","slide":3,"text":"Late action","textPreview":"Late action","textChars":11,"textLines":1,"bbox":[435,344,240,40]}
+{"kind":"textbox","id":"sh/ory9kral","slide":3,"text":"By the time smoke is visible, the intervention window is smaller and more expensive.","textPreview":"By the time smoke is visible, the intervention window is smaller and more expensive.","textChars":84,"textLines":1,"bbox":[435,405,240,75]}
+{"kind":"shape","id":"sh/3qp8rmt0","slide":3,"bbox":[756,260,300,250]}
+{"kind":"textbox","id":"sh/2pgrihsf","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[781,288,70,30]}
+{"kind":"textbox","id":"sh/1onqpwba","slide":3,"text":"Hard-to-prove impact","textPreview":"Hard-to-prove impact","textChars":20,"textLines":1,"bbox":[781,344,240,40]}
+{"kind":"textbox","id":"sh/gne9grap","slide":3,"text":"Teams need an evidence trail for ESG, insurance and future MRV work.","textPreview":"Teams need an evidence trail for ESG, insurance and future MRV work.","textChars":68,"textLines":1,"bbox":[781,405,240,75]}
+{"kind":"textbox","id":"sh/fm58nmt4","slide":3,"text":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textPreview":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textChars":47,"textLines":1,"bbox":[64,681,700,16]}
+{"kind":"textbox","id":"sh/elwrehsj","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1170,681,45,16]}
+{"kind":"notes","id":"nt/dwrb66","slide":3,"text":""}
+{"kind":"slide","id":"sl/k3s3n8","slide":4,"title":"THE PRODUCT","textShapes":19}
+{"kind":"textbox","id":"sh/cv69sjyt","slide":4,"text":"THE PRODUCT","textPreview":"THE PRODUCT","textChars":11,"textLines":1,"bbox":[64,48,560,18]}
+{"kind":"textbox","id":"sh/bax8jex8","slide":4,"text":"PeatCycle turns raw signals into a field decision.","textPreview":"PeatCycle turns raw signals into a field decision.","textChars":50,"textLines":1,"bbox":[64,82,960,58]}
+{"kind":"textbox","id":"sh/a9orqtgn","slide":4,"text":"It is a command centre for plantation managers, agencies, conservation teams and ESG owners.","textPreview":"It is a command centre for plantation managers, agencies, conservation teams and ESG owners.","textChars":92,"textLines":1,"bbox":[64,151,900,38]}
+{"kind":"shape","id":"sh/p8fqhof2","slide":4,"bbox":[74,285,190,150]}
+{"kind":"textbox","id":"sh/o769ojyx","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[92,305,45,25]}
+{"kind":"textbox","id":"sh/n6x8fexc","slide":4,"text":"SENSE","textPreview":"SENSE","textChars":5,"textLines":1,"bbox":[92,350,150,28]}
+{"kind":"textbox","id":"sh/254rm9gr","slide":4,"text":"IoT + weather","textPreview":"IoT + weather","textChars":13,"textLines":1,"bbox":[92,392,155,22]}
+{"kind":"shape","id":"sh/t4zat8fm","slide":4,"bbox":[268,360,31,0]}
+{"kind":"shape","id":"sh/83q903y1","slide":4,"bbox":[306,285,190,150]}
+{"kind":"textbox","id":"sh/il0r6hsb","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[324,305,45,25]}
+{"kind":"textbox","id":"sh/jm98fm9w","slide":4,"text":"EXPLAIN","textPreview":"EXPLAIN","textChars":7,"textLines":1,"bbox":[324,350,150,28]}
+{"kind":"textbox","id":"sh/kni98rah","slide":4,"text":"AI reasoning","textPreview":"AI reasoning","textChars":12,"textLines":1,"bbox":[324,392,155,22]}
+{"kind":"shape","id":"sh/5obqhwr2","slide":4,"bbox":[500,360,31,0]}
+{"kind":"shape","id":"sh/ah0r2hsf","slide":4,"bbox":[538,285,190,150]}
+{"kind":"textbox","id":"sh/vi98bm90","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[556,305,45,25]}
+{"kind":"textbox","id":"sh/wji94ral","slide":4,"text":"ACT","textPreview":"ACT","textChars":3,"textLines":1,"bbox":[556,350,150,28]}
+{"kind":"textbox","id":"sh/xkrqdwrq","slide":4,"text":"Gates + patrols","textPreview":"Gates + patrols","textChars":15,"textLines":1,"bbox":[556,392,155,22]}
+{"kind":"shape","id":"sh/udkre1sj","slide":4,"bbox":[732,360,31,0]}
+{"kind":"shape","id":"sh/fetsn694","slide":4,"bbox":[770,285,190,150]}
+{"kind":"textbox","id":"sh/rmlwjelk","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[788,305,45,25]}
+{"kind":"textbox","id":"sh/qlcfq94z","slide":4,"text":"PROVE","textPreview":"PROVE","textChars":5,"textLines":1,"bbox":[788,350,150,28]}
+{"kind":"textbox","id":"sh/do3elo3a","slide":4,"text":"Evidence trail","textPreview":"Evidence trail","textChars":14,"textLines":1,"bbox":[788,392,155,22]}
+{"kind":"shape","id":"sh/snuxsjmp","slide":4,"bbox":[74,485,886,72]}
+{"kind":"textbox","id":"sh/fqlwnelg","slide":4,"text":"The promise","textPreview":"The promise","textChars":11,"textLines":1,"bbox":[96,505,130,20]}
+{"kind":"textbox","id":"sh/epcfu94v","slide":4,"text":"Move from monitoring the peatland to managing the risk.","textPreview":"Move from monitoring the peatland to managing the risk.","textChars":55,"textLines":1,"bbox":[240,500,650,30]}
+{"kind":"textbox","id":"sh/1cnypo3m","slide":4,"text":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textPreview":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textChars":47,"textLines":1,"bbox":[64,681,700,16]}
+{"kind":"textbox","id":"sh/0bexwjm1","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1170,681,45,16]}
+{"kind":"notes","id":"nt/k3s3n8","slide":4,"text":""}
+{"kind":"slide","id":"sl/hzswkw","slide":5,"title":"THE PHYSICAL LAYER","textShapes":11}
+{"kind":"textbox","id":"sh/8b2t0fit","slide":5,"text":"THE PHYSICAL LAYER","textPreview":"THE PHYSICAL LAYER","textChars":18,"textLines":1,"bbox":[64,48,560,18]}
+{"kind":"textbox","id":"sh/natc7a18","slide":5,"text":"Yes — this can be a real product with real live sensors.","textPreview":"Yes — this can be a real product with real live sensors.","textChars":56,"textLines":1,"bbox":[64,82,960,58]}
+{"kind":"textbox","id":"sh/m9kby50n","slide":5,"text":"The demo uses simulated telemetry today; the same data contract can accept ESP32 / LoRaWAN field devices later.","textPreview":"The demo uses simulated telemetry today; the same data contract can accept ESP32 / LoRaWAN field devices later.","textChars":111,"textLines":1,"bbox":[64,151,900,38]}
+{"kind":"shape","id":"sh/072twvix","slide":5,"bbox":[64,230,590,360]}
+{"kind":"shape","id":"sh/z69c3q1c","slide":5,"bbox":[94,260,175,26]}
+{"kind":"textbox","id":"sh/y50bu50r","slide":5,"text":"FIELD SENSOR CONCEPT","textPreview":"FIELD SENSOR CONCEPT","textChars":20,"textLines":1,"bbox":[102,265,159,16]}
+{"kind":"shape","id":"sh/54vuh4jm","slide":5,"bbox":[94,326,8,8]}
+{"kind":"textbox","id":"sh/k3md8zi1","slide":5,"text":"Water-table depth probe","textPreview":"Water-table depth probe","textChars":23,"textLines":1,"bbox":[114,320,400,30]}
+{"kind":"shape","id":"sh/29gvi1k3","slide":5,"bbox":[94,376,8,8]}
+{"kind":"textbox","id":"sh/napcr61o","slide":5,"text":"Soil moisture + temperature","textPreview":"Soil moisture + temperature","textChars":27,"textLines":1,"bbox":[114,370,400,30]}
+{"kind":"shape","id":"sh/obydkb2t","slide":5,"bbox":[94,426,8,8]}
+{"kind":"textbox","id":"sh/9c7utgje","slide":5,"text":"Solar power + weatherproof enclosure","textPreview":"Solar power + weatherproof enclosure","textChars":36,"textLines":1,"bbox":[114,420,420,30]}
+{"kind":"shape","id":"sh/e5wve1kr","slide":5,"bbox":[94,476,8,8]}
+{"kind":"textbox","id":"sh/f6pcn61c","slide":5,"text":"LoRa / cellular uplink to PeatCycle","textPreview":"LoRa / cellular uplink to PeatCycle","textChars":35,"textLines":1,"bbox":[114,470,400,30]}
+{"kind":"textbox","id":"sh/07ydgb2x","slide":5,"text":"Sell hardware as a deployment kit; charge software per hectare/year.","textPreview":"Sell hardware as a deployment kit; charge software per hectare/year.","textChars":68,"textLines":1,"bbox":[94,535,520,30]}
+{"kind":"textbox","id":"sh/187upwji","slide":5,"text":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textPreview":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textChars":47,"textLines":1,"bbox":[64,681,700,16]}
+{"kind":"textbox","id":"sh/y10vqlkb","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1170,681,45,16]}
+{"kind":"image","id":"im/ozmtor65","slide":5,"name":"","alt":"PeatCycle field sensor concept","bbox":[770,180,360,435]}
+{"kind":"notes","id":"nt/hzswkw","slide":5,"text":""}
+{"kind":"slide","id":"sl/b9uwj4","slide":6,"title":"THE MULTI-AGENT LOOP","textShapes":15}
+{"kind":"textbox","id":"sh/ne9cf2xk","slide":6,"text":"THE MULTI-AGENT LOOP","textPreview":"THE MULTI-AGENT LOOP","textChars":20,"textLines":1,"bbox":[64,48,560,18]}
+{"kind":"textbox","id":"sh/ofido7e5","slide":6,"text":"Three specialists reason in parallel before the dashboard gets an answer.","textPreview":"Three specialists reason in parallel before the dashboard gets an answer.","textChars":73,"textLines":1,"bbox":[64,82,960,58]}
+{"kind":"textbox","id":"sh/pgrehcfq","slide":6,"text":"A lightweight orchestration pattern keeps the hackathon demo fast and deterministic.","textPreview":"A lightweight orchestration pattern keeps the hackathon demo fast and deterministic.","textChars":84,"textLines":1,"bbox":[64,151,900,38]}
+{"kind":"shape","id":"sh/epgvixgn","slide":6,"bbox":[70,300,220,145]}
+{"kind":"textbox","id":"sh/fqpcb2x8","slide":6,"text":"RAW INPUT","textPreview":"RAW INPUT","textChars":9,"textLines":1,"bbox":[88,325,180,20]}
+{"kind":"textbox","id":"sh/0rydk7et","slide":6,"text":"Telemetry\nWeather\nVision logs","textPreview":"Telemetry | Weather | Vision logs","textChars":29,"textLines":3,"bbox":[88,360,180,70]}
+{"kind":"shape","id":"sh/1crudcfe","slide":6,"bbox":[293,372,57,0]}
+{"kind":"shape","id":"sh/ylkvuhw7","slide":6,"bbox":[350,300,220,145]}
+{"kind":"textbox","id":"sh/zmtwnmxs","slide":6,"text":"SPECIALISTS","textPreview":"SPECIALISTS","textChars":11,"textLines":1,"bbox":[368,325,180,20]}
+{"kind":"textbox","id":"sh/vyhw7y9o","slide":6,"text":"Sensor Agent\nVision Agent\nWeather Agent","textPreview":"Sensor Agent | Vision Agent | Weather Agent","textChars":39,"textLines":3,"bbox":[368,360,180,70]}
+{"kind":"shape","id":"sh/ax8fyts3","slide":6,"bbox":[573,372,57,0]}
+{"kind":"shape","id":"sh/x0je9oru","slide":6,"bbox":[660,300,220,145]}
+{"kind":"textbox","id":"sh/wzqx0ja9","slide":6,"text":"PREDICT","textPreview":"PREDICT","textChars":7,"textLines":1,"bbox":[678,325,180,20]}
+{"kind":"textbox","id":"sh/j21wby90","slide":6,"text":"Risk index\nIgnition %\nCarbon at risk","textPreview":"Risk index | Ignition % | Carbon at risk","textChars":36,"textLines":3,"bbox":[678,360,180,70]}
+{"kind":"shape","id":"sh/i1sf2t8f","slide":6,"bbox":[883,372,57,0]}
+{"kind":"shape","id":"sh/54jed8rq","slide":6,"bbox":[950,300,220,145]}
+{"kind":"textbox","id":"sh/k3ax43ql","slide":6,"text":"PRESCRIBE","textPreview":"PRESCRIBE","textChars":9,"textLines":1,"bbox":[968,325,180,20]}
+{"kind":"textbox","id":"sh/761wfi9w","slide":6,"text":"Water gate\nPatrol\nMonitoring","textPreview":"Water gate | Patrol | Monitoring","textChars":28,"textLines":3,"bbox":[968,360,180,70]}
+{"kind":"textbox","id":"sh/65sf6d8b","slide":6,"text":"Promise.all","textPreview":"Promise.all","textChars":11,"textLines":1,"bbox":[415,478,150,22]}
+{"kind":"textbox","id":"sh/2lwzyhsj","slide":6,"text":"Parallel specialist execution → shared state → deterministic JSON","textPreview":"Parallel specialist execution → shared state → deterministic JSON","textChars":65,"textLines":1,"bbox":[405,510,480,24]}
+{"kind":"textbox","id":"sh/3m5072t4","slide":6,"text":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textPreview":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textChars":47,"textLines":1,"bbox":[64,681,700,16]}
+{"kind":"textbox","id":"sh/oneh07ap","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1170,681,45,16]}
+{"kind":"notes","id":"nt/b9uwj4","slide":6,"text":""}
+{"kind":"slide","id":"sl/pzh9m5","slide":7,"title":"THE OPERATOR VIEW","textShapes":14}
+{"kind":"textbox","id":"sh/jy58f6ts","slide":7,"text":"THE OPERATOR VIEW","textPreview":"THE OPERATOR VIEW","textChars":17,"textLines":1,"bbox":[64,48,560,18]}
+{"kind":"textbox","id":"sh/kzeporud","slide":7,"text":"The manager sees where the risk is — and what to do next.","textPreview":"The manager sees where the risk is — and what to do next.","textChars":57,"textLines":1,"bbox":[64,82,960,58]}
+{"kind":"textbox","id":"sh/l0nqhwby","slide":7,"text":"The overview keeps scope, location, reasoning and action in one operational viewport.","textPreview":"The overview keeps scope, location, reasoning and action in one operational viewport.","textChars":85,"textLines":1,"bbox":[64,151,900,38]}
+{"kind":"shape","id":"sh/atw7ihcb","slide":7,"bbox":[64,235,1150,330]}
+{"kind":"shape","id":"sh/bu5obmtw","slide":7,"bbox":[92,260,180,26]}
+{"kind":"textbox","id":"sh/wvepkruh","slide":7,"text":"BLOCK C · HIGH RISK","textPreview":"BLOCK C · HIGH RISK","textChars":19,"textLines":1,"bbox":[100,265,164,16]}
+{"kind":"textbox","id":"sh/xwnqdwb2","slide":7,"text":"89","textPreview":"89","textChars":2,"textLines":1,"bbox":[1020,252,115,54]}
+{"kind":"textbox","id":"sh/m5c7ehcf","slide":7,"text":"ignition probability","textPreview":"ignition probability","textChars":20,"textLines":1,"bbox":[1020,310,115,18]}
+{"kind":"shape","id":"sh/n6lo72tk","slide":7,"bbox":[94,330,330,160]}
+{"kind":"textbox","id":"sh/36pk72t4","slide":7,"text":"DIGITAL TWIN","textPreview":"DIGITAL TWIN","textChars":12,"textLines":1,"bbox":[118,350,170,16]}
+{"kind":"shape","id":"sh/25g3excj","slide":7,"bbox":[190,390,150,70]}
+{"kind":"shape","id":"sh/p8729cba","slide":7,"bbox":[234,406,50,35]}
+{"kind":"textbox","id":"sh/o7ylg7up","slide":7,"text":"C","textPreview":"C","textChars":1,"textLines":1,"bbox":[249,414,18,16]}
+{"kind":"shape","id":"sh/bupkbmt0","slide":7,"bbox":[480,361,8,8]}
+{"kind":"textbox","id":"sh/q9g3ihcv","slide":7,"text":"Moisture 38%","textPreview":"Moisture 38%","textChars":12,"textLines":1,"bbox":[500,355,280,30]}
+{"kind":"shape","id":"sh/dwr2dcb6","slide":7,"bbox":[480,406,8,8]}
+{"kind":"textbox","id":"sh/cvylkrul","slide":7,"text":"Surface heat 34.2°C","textPreview":"Surface heat 34.2°C","textChars":19,"textLines":1,"bbox":[500,400,280,30]}
+{"kind":"shape","id":"sh/7y5kzitw","slide":7,"bbox":[480,451,8,8]}
+{"kind":"textbox","id":"sh/6dwj6dcb","slide":7,"text":"West wind 18 km/h","textPreview":"West wind 18 km/h","textChars":17,"textLines":1,"bbox":[500,445,280,30]}
+{"kind":"shape","id":"sh/atknelwz","slide":7,"bbox":[900,375,220,58]}
+{"kind":"textbox","id":"sh/vutonqdk","slide":7,"text":"Trigger water gate release","textPreview":"Trigger water gate release","textChars":26,"textLines":1,"bbox":[916,395,188,20]}
+{"kind":"textbox","id":"sh/wvm5gve5","slide":7,"text":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textPreview":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textChars":47,"textLines":1,"bbox":[64,681,700,16]}
+{"kind":"textbox","id":"sh/xwv6p0vq","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1170,681,45,16]}
+{"kind":"notes","id":"nt/pzh9m5","slide":7,"text":""}
+{"kind":"slide","id":"sl/mad51w","slide":8,"title":"THE LIVE DEMO","textShapes":18}
+{"kind":"textbox","id":"sh/ps7uhkbe","slide":8,"text":"THE LIVE DEMO","textPreview":"THE LIVE DEMO","textChars":13,"textLines":1,"bbox":[64,48,560,18]}
+{"kind":"textbox","id":"sh/2pgvmpcn","slide":8,"text":"One click runs the loop from telemetry to intervention.","textPreview":"One click runs the loop from telemetry to intervention.","textChars":55,"textLines":1,"bbox":[64,82,960,58]}
+{"kind":"textbox","id":"sh/3qpcfat8","slide":8,"text":"The judge can watch the reasoning appear instead of trusting a static screen.","textPreview":"The judge can watch the reasoning appear instead of trusting a static screen.","textChars":77,"textLines":1,"bbox":[64,151,900,38]}
+{"kind":"shape","id":"sh/gnydkfux","slide":8,"bbox":[75,260,770,62]}
+{"kind":"shape","id":"sh/ho7udkb2","slide":8,"bbox":[95,280,20,20]}
+{"kind":"textbox","id":"sh/ulwbi5cr","slide":8,"text":"Sensor Agent","textPreview":"Sensor Agent","textChars":12,"textLines":1,"bbox":[135,276,190,22]}
+{"kind":"textbox","id":"sh/fmpcbatc","slide":8,"text":"Moisture 38% · water table 42 cm","textPreview":"Moisture 38% · water table 42 cm","textChars":32,"textLines":1,"bbox":[350,278,330,20]}
+{"kind":"textbox","id":"sh/0jidwzu1","slide":8,"text":"+38","textPreview":"+38","textChars":3,"textLines":1,"bbox":[770,276,50,22]}
+{"kind":"shape","id":"sh/lkrup4bm","slide":8,"bbox":[75,345,770,62]}
+{"kind":"shape","id":"sh/t8ri9g7i","slide":8,"bbox":[95,365,20,20]}
+{"kind":"textbox","id":"sh/s7ih0b6x","slide":8,"text":"Vision Agent","textPreview":"Vision Agent","textChars":12,"textLines":1,"bbox":[135,361,190,22]}
+{"kind":"textbox","id":"sh/76907qpc","slide":8,"text":"34.2°C · dry biomass detected","textPreview":"34.2°C · dry biomass detected","textChars":29,"textLines":1,"bbox":[350,363,330,20]}
+{"kind":"textbox","id":"sh/65gzylor","slide":8,"text":"+27","textPreview":"+27","textChars":3,"textLines":1,"bbox":[770,361,50,22]}
+{"kind":"shape","id":"sh/547i5g7m","slide":8,"bbox":[75,430,770,62]}
+{"kind":"shape","id":"sh/k3yhwb61","slide":8,"bbox":[95,450,20,20]}
+{"kind":"textbox","id":"sh/j2p036pg","slide":8,"text":"Weather Agent","textPreview":"Weather Agent","textChars":13,"textLines":1,"bbox":[135,446,190,22]}
+{"kind":"textbox","id":"sh/i1gzu1ov","slide":8,"text":"18 km/h wind · 58% humidity","textPreview":"18 km/h wind · 58% humidity","textChars":27,"textLines":1,"bbox":[350,448,330,20]}
+{"kind":"textbox","id":"sh/p0bih0nq","slide":8,"text":"+18","textPreview":"+18","textChars":3,"textLines":1,"bbox":[770,446,50,22]}
+{"kind":"shape","id":"sh/4z218f65","slide":8,"bbox":[920,260,260,230]}
+{"kind":"textbox","id":"sh/o3al4jeh","slide":8,"text":"79","textPreview":"79","textChars":2,"textLines":1,"bbox":[950,290,200,55]}
+{"kind":"textbox","id":"sh/p4j2dov2","slide":8,"text":"GLOBAL RISK INDEX","textPreview":"GLOBAL RISK INDEX","textChars":17,"textLines":1,"bbox":[950,350,200,18]}
+{"kind":"textbox","id":"sh/2h8j29wb","slide":8,"text":"3 agents coordinated","textPreview":"3 agents coordinated","textChars":20,"textLines":1,"bbox":[950,397,200,20]}
+{"kind":"textbox","id":"sh/n21kbedw","slide":8,"text":"3 actions recommended","textPreview":"3 actions recommended","textChars":21,"textLines":1,"bbox":[950,430,200,20]}
+{"kind":"textbox","id":"sh/0fq10ze5","slide":8,"text":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textPreview":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textChars":47,"textLines":1,"bbox":[64,681,700,16]}
+{"kind":"textbox","id":"sh/1gz294vq","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1170,681,45,16]}
+{"kind":"notes","id":"nt/mad51w","slide":8,"text":""}
+{"kind":"slide","id":"sl/mr0vtl","slide":9,"title":"THE BUSINESS","textShapes":15}
+{"kind":"textbox","id":"sh/dwryp8zu","slide":9,"text":"THE BUSINESS","textPreview":"THE BUSINESS","textChars":12,"textLines":1,"bbox":[64,48,560,18]}
+{"kind":"textbox","id":"sh/qt0zut03","slide":9,"text":"The business model follows the value of the asset and the buyer.","textPreview":"The business model follows the value of the asset and the buyer.","textChars":64,"textLines":1,"bbox":[64,82,960,58]}
+{"kind":"textbox","id":"sh/bu9gnyho","slide":9,"text":"Commercially, PeatCycle is more than a generic SaaS subscription.","textPreview":"Commercially, PeatCycle is more than a generic SaaS subscription.","textChars":65,"textLines":1,"bbox":[64,151,900,38]}
+{"kind":"textbox","id":"sh/orihs3id","slide":9,"text":"PLANTATIONS","textPreview":"PLANTATIONS","textChars":11,"textLines":1,"bbox":[80,265,170,22]}
+{"kind":"textbox","id":"sh/psryl8zy","slide":9,"text":"Tiered per hectare / year","textPreview":"Tiered per hectare / year","textChars":25,"textLines":1,"bbox":[280,261,360,30]}
+{"kind":"textbox","id":"sh/2p0zqt07","slide":9,"text":"Cost scales with the estate being protected.","textPreview":"Cost scales with the estate being protected.","textChars":44,"textLines":1,"bbox":[690,265,450,24]}
+{"kind":"textbox","id":"sh/3q9gjyhs","slide":9,"text":"GOVERNMENT","textPreview":"GOVERNMENT","textChars":10,"textLines":1,"bbox":[80,360,170,22]}
+{"kind":"textbox","id":"sh/g3yxoji1","slide":9,"text":"Annual enterprise license","textPreview":"Annual enterprise license","textChars":25,"textLines":1,"bbox":[280,356,360,30]}
+{"kind":"textbox","id":"sh/1o7yhozm","slide":9,"text":"Fits budget cycles, tenders and dedicated support.","textPreview":"Fits budget cycles, tenders and dedicated support.","textChars":50,"textLines":1,"bbox":[690,360,450,24]}
+{"kind":"textbox","id":"sh/x4rq1wj2","slide":9,"text":"INSURERS + ESG","textPreview":"INSURERS + ESG","textChars":14,"textLines":1,"bbox":[80,455,170,22]}
+{"kind":"textbox","id":"sh/c3ip8b2x","slide":9,"text":"Readiness and evidence layer","textPreview":"Readiness and evidence layer","textChars":28,"textLines":1,"bbox":[280,451,360,30]}
+{"kind":"textbox","id":"sh/b298z61c","slide":9,"text":"Supports underwriting and cuts audit preparation time.","textPreview":"Supports underwriting and cuts audit preparation time.","textChars":54,"textLines":1,"bbox":[690,455,450,24]}
+{"kind":"shape","id":"sh/ah0761kr","slide":9,"bbox":[80,565,1040,38]}
+{"kind":"textbox","id":"sh/pgr6xwj6","slide":9,"text":"Positioning: pre-compliance and risk reduction — not an instant carbon-credit promise.","textPreview":"Positioning: pre-compliance and risk reduction — not an instant carbon-credit promise.","textChars":86,"textLines":1,"bbox":[105,576,980,20]}
+{"kind":"textbox","id":"sh/ofyp4r2l","slide":9,"text":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textPreview":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textChars":47,"textLines":1,"bbox":[64,681,700,16]}
+{"kind":"textbox","id":"sh/nepovm10","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1170,681,45,16]}
+{"kind":"notes","id":"nt/mr0vtl","slide":9,"text":""}
+{"kind":"slide","id":"sl/9kt8gy","slide":10,"title":"THE ASK","textShapes":12}
+{"kind":"textbox","id":"sh/2h0fq58f","slide":10,"text":"THE ASK","textPreview":"THE ASK","textChars":7,"textLines":1,"bbox":[64,48,560,18]}
+{"kind":"textbox","id":"sh/p4bel076","slide":10,"text":"PeatCycle makes the next decision visible — before the fire does.","textPreview":"PeatCycle makes the next decision visible — before the fire does.","textChars":65,"textLines":1,"bbox":[64,82,960,58]}
+{"kind":"textbox","id":"sh/o3ixsfql","slide":10,"text":"We are ready to move from a working MVP to a field pilot.","textPreview":"We are ready to move from a working MVP to a field pilot.","textChars":57,"textLines":1,"bbox":[64,151,900,38]}
+{"kind":"shape","id":"sh/b6twnapc","slide":10,"bbox":[64,245,530,255]}
+{"kind":"textbox","id":"sh/q5kfu58r","slide":10,"text":"NEXT PILOT","textPreview":"NEXT PILOT","textChars":10,"textLines":1,"bbox":[96,280,200,20]}
+{"kind":"textbox","id":"sh/d8bepk72","slide":10,"text":"Instrument one estate.\nConnect the first live\nwater-table network.","textPreview":"Instrument one estate. | Connect the first live | water-table network.","textChars":66,"textLines":3,"bbox":[96,325,430,125]}
+{"kind":"shape","id":"sh/c72xwfqh","slide":10,"bbox":[650,245,530,255]}
+{"kind":"textbox","id":"sh/zatwrup8","slide":10,"text":"WHAT SUCCESS LOOKS LIKE","textPreview":"WHAT SUCCESS LOOKS LIKE","textChars":23,"textLines":1,"bbox":[682,280,300,20]}
+{"kind":"shape","id":"sh/y9kfyp8n","slide":10,"bbox":[682,336,8,8]}
+{"kind":"textbox","id":"sh/sjmts76d","slide":10,"text":"Earlier warnings","textPreview":"Earlier warnings","textChars":16,"textLines":1,"bbox":[702,330,360,30]}
+{"kind":"shape","id":"sh/dkvalcny","slide":10,"bbox":[682,386,8,8]}
+{"kind":"textbox","id":"sh/6xkrqho7","slide":10,"text":"Faster field response","textPreview":"Faster field response","textChars":21,"textLines":1,"bbox":[702,380,360,30]}
+{"kind":"shape","id":"sh/ridsjm5s","slide":10,"bbox":[682,436,8,8]}
+{"kind":"textbox","id":"sh/0nmtwrm9","slide":10,"text":"Audit-ready intervention evidence","textPreview":"Audit-ready intervention evidence","textChars":33,"textLines":1,"bbox":[702,430,410,30]}
+{"kind":"textbox","id":"sh/1ovapwnu","slide":10,"text":"Protect the peat. Protect the people. Prove the impact.","textPreview":"Protect the peat. Protect the people. Prove the impact.","textChars":55,"textLines":1,"bbox":[64,565,1040,35]}
+{"kind":"textbox","id":"sh/el4buhoj","slide":10,"text":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textPreview":"PEATCYCLE AI  |  PREDICTIVE PEATLAND MANAGEMENT","textChars":47,"textLines":1,"bbox":[64,681,700,16]}
+{"kind":"textbox","id":"sh/fmdsnm54","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1170,681,45,16]}
+{"kind":"notes","id":"nt/9kt8gy","slide":10,"text":""}
