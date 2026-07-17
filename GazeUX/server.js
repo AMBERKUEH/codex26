@@ -4,8 +4,10 @@ const path = require("path");
 const { analyzeBlock, DEFAULT_INPUT } = require("./agents/orchestrator");
 
 const root = __dirname;
-const port = Number(process.env.PORT || 8000);
-const host = process.env.HOST || "127.0.0.1";
+// Databricks Apps supplies DATABRICKS_APP_PORT and requires the process to
+// listen on all interfaces. PORT remains supported for local/other hosts.
+const port = Number(process.env.DATABRICKS_APP_PORT || process.env.PORT || 8000);
+const host = process.env.HOST || "0.0.0.0";
 
 const types = {
   ".html": "text/html; charset=utf-8",

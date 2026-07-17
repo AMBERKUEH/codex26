@@ -48,3 +48,16 @@ The hackathon demo does **not** require an `.env` file, API key, database, or cl
 The current interface uses realistic demo data from the project plan so the 48-hour hackathon story can be shown without a backend. The commercial direction is deliberately more specific than generic SaaS: tiered per-hectare/year pricing for plantations, annual enterprise licenses with dedicated support for government, and an ESG readiness / insurance evidence layer. The product should reduce audit preparation and strengthen underwriting conversations; it should not promise instant carbon credits.
 
 The next production step would be to replace the simulated values with sensor, weather, satellite, and model API responses while keeping the same UI contract. Because predictions can be wrong, production deployments should include confidence bands, human approval for field actions, intervention logs, and a clear service/liability boundary.
+# Databricks Apps deployment
+
+This project is ready to run as a Databricks App. The app uses the simulated
+telemetry dataset by default, so no `.env` file or external sensor credentials
+are required for the demo.
+
+In Databricks Apps, create a custom app and deploy the `GazeUX` directory from
+the `AMBERKUEH/codex26` repository. Databricks will detect `package.json`, run
+the command in `app.yaml`, and expose the app URL after the build completes.
+
+The server automatically uses `DATABRICKS_APP_PORT` and listens on
+`0.0.0.0`. For local development, run `npm start` and open
+`http://localhost:8000`.
